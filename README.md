@@ -9,7 +9,7 @@
 **arosha619/arosha619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-- 🌱 I’m currently learning **C# programming & .Net Framework**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
