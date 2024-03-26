@@ -59,7 +59,7 @@
 
 - Programming Languages
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=c,cs,java" />
   </a>
 </p>
