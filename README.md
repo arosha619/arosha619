@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arosha Sandaruwan</h1>
-<h3 align="center">~IT Undergraduate at University of Moratuwa~</h3>
+<h3 align="center">~Graduated from University of Moratuwa~</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"  alt="giphy">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha619&label=Profile%20views&color=0e75b6&style=flat" alt="arosha619" /> </p>
@@ -9,7 +9,7 @@
 **arosha619/arosha619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning C#**
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
