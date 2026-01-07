@@ -17,7 +17,15 @@
   
 - ⚡ Fun fact:  **I love Sports, especially Cricket**
 
-  
+  <h3 align="left">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arosha619&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arosha619&theme=tokyonight" />
+</p>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
