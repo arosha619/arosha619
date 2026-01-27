@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha619&label=Profile%20views&color=0e75b6&style=flat" alt="arosha619" /> </p>
 <br/>
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
-**arosha619/arosha619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 - 🌱 I’m currently learning shell scripting, docker and k8s
 
