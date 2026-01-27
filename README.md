@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 
-- 📫 How to reach me **aroshasandaruwan619@gmail.com**
+- 📫 How to reach me **aroshasandaruwan416@gmail.com**
   
 - ⚡ Fun fact:  **I love Sports, especially Cricket**
 
