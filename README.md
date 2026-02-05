@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Frontend
+<!-- - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,materialui,bootstrap,css" />
@@ -45,7 +45,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,java," />
   </a>
-</p>
+</p>-->
 
 - Database
 <p align="left">
