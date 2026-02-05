@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha619&label=Profile%20views&color=0e75b6&style=flat" alt="arosha619" /> </p>
 <br/>
- <img alt="GitHub commit count" src="https://img.shields.io/github/commit-count/arosha619/portfolio?color=blue&style=flat-square">
+<img src="https://github-readme-stats.vercel.app/api?username=arosha619&show_icons=true&count_private=true" />
+
 
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
