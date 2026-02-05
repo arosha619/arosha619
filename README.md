@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha619&label=Profile%20views&color=0e75b6&style=flat" alt="arosha619" /> </p>
 <br/>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
 - 🌱 I’m currently learning shell scripting, docker and k8s
