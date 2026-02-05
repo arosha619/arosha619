@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,java," />
   </a>
 </p>-->
-
+<!--
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
@@ -74,6 +74,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,visualstudio,postman,linux" />
   </a>
 </p>
+-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
